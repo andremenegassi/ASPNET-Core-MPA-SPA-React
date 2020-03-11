@@ -1,6 +1,6 @@
 # ASPNET-Core-MPA-SPA-React
 
-Projeto ASP.NET Core 3.1 que implementa uma MPA com SPA React em algumas Views usando Webpack.
+Projeto ASP.NET Core 3.1 que implementa uma MPA (Multi Page Application) com SPA (Single Page Application) React em algumas Views usando Webpack.
 
 # Como executar
 
