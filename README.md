@@ -9,6 +9,7 @@ cmd: ...\MPA-SPA>dotnet run
 
 ## Execute o projeto React via terminal.
 cmd: ...\MPA-SPA\wwwroot\clientapp npm install
+
 cmd: ...\MPA-SPA\wwwroot\clientapp npm start
 
 O Webpack foi configurado para transpilar os arquivos JS da pasta wwwroot\clientapp\src\views para wwwroot\dist. Os nomes dos arquivos .js são mantidos ao final do processo. Portanto, as Views que necessitarem de código React devem importar os arquivos transpilados:
