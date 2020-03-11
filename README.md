@@ -5,10 +5,12 @@ Projeto ASP.NET Core 3.1 que implementa uma MPA com SPA React em algumas Views u
 # Como executar
 
 ## Execute o projeto ASP.NET pelo VS ou via terminal.
-cmd: C:\...\MPA-SPA>dotnet run
+cmd: ...\MPA-SPA>dotnet run
 
 ## Execute o projeto React via terminal.
-cmd: C:\...\MPA-SPA\wwwroot\clientapp npm start
+cmd: ...\MPA-SPA\wwwroot\clientapp npm install
+
+cmd: ...\MPA-SPA\wwwroot\clientapp npm start
 
 O Webpack foi configurado para transpilar os arquivos JS da pasta wwwroot\clientapp\src\views para wwwroot\dist. Os nomes dos arquivos .js são mantidos ao final do processo. Portanto, as Views que necessitarem de código React devem importar os arquivos transpilados:
 
