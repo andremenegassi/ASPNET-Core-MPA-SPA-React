@@ -19,6 +19,8 @@ O Webpack foi configurado para transpilar os arquivos JS da pasta wwwroot\client
 }
 
 @section Scripts {
+
     #<script src="~/clientapp/dist/views/react1/Index.js"></script>
-}
+    
+    }
 <div id="root"></div>
