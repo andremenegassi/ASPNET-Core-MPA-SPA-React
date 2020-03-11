@@ -18,7 +18,7 @@ O Webpack foi configurado para transpilar os arquivos JS da pasta wwwroot\client
     ViewData["Title"] = "React 1";
 }
 
-@section Scripts{ 
+@section Scripts {
     #<script src="~/clientapp/dist/views/react1/Index.js"></script>
 }
 <div id="root"></div>
