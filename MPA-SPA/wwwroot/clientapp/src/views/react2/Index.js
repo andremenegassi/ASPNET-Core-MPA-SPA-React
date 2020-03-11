@@ -23,7 +23,7 @@ export default class Counter extends Component {
             <div>
 
                 <MyH1>Counter 222222222</MyH1>
-                <Test>Teste</Test>
+                <Test>Tesgfgfgfte</Test>
 
                 <p>This is a simple example of a React component.</p>
 

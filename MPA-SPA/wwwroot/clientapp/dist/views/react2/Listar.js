@@ -597,7 +597,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("__webpack_require__(/*! C:\\Temp\\Experimento\\SPA\\SPA\\wwwroot\\clientapp\\node_modules\\webpack-dev-server\\client\\index.js?http://localhost:8080 */\"./node_modules/webpack-dev-server/client/index.js?http://localhost:8080\");\nmodule.exports = __webpack_require__(/*! ./src/views/react2/Listar.js */\"./src/views/react2/Listar.js\");\n\n\n//# sourceURL=webpack:///multi_(webpack)-dev-server/client?");
+eval("__webpack_require__(/*! C:\\Temp\\Experimento\\SPA\\MPA-SPA\\wwwroot\\clientapp\\node_modules\\webpack-dev-server\\client\\index.js?http://localhost:8080 */\"./node_modules/webpack-dev-server/client/index.js?http://localhost:8080\");\nmodule.exports = __webpack_require__(/*! ./src/views/react2/Listar.js */\"./src/views/react2/Listar.js\");\n\n\n//# sourceURL=webpack:///multi_(webpack)-dev-server/client?");
 
 /***/ })
 
