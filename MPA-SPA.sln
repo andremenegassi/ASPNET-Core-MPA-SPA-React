@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPA-SPA", "SPA\MPA-SPA.csproj", "{37613627-CD3E-4765-B41B-5EB1077BD642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPA-SPA", "MPA-SPA\MPA-SPA.csproj", "{37613627-CD3E-4765-B41B-5EB1077BD642}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
