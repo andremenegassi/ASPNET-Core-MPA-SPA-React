@@ -14,6 +14,7 @@ cmd: ...\MPA-SPA\wwwroot\clientapp npm start
 
 O Webpack foi configurado para transpilar os arquivos JS da pasta wwwroot\clientapp\src\views para wwwroot\dist. Os nomes dos arquivos .js são mantidos ao final do processo. Portanto, as Views que necessitarem de código React devem importar os arquivos transpilados:
 
+<code>
 @{
     ViewData["Title"] = "React 1";
 }
@@ -24,3 +25,4 @@ O Webpack foi configurado para transpilar os arquivos JS da pasta wwwroot\client
     
     }
 <div id="root"></div>
+</code>
